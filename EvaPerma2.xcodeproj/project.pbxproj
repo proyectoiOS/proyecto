@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C43655092837476F00DBA480 /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = C43655082837476F00DBA480 /* like.png */; };
+		C436550C28374D3A00DBA480 /* flecha-regresar.png in Resources */ = {isa = PBXBuildFile; fileRef = C436550B28374D3A00DBA480 /* flecha-regresar.png */; };
 		C4C17A6A2836D37100F5080D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C17A692836D37100F5080D /* AppDelegate.swift */; };
 		C4C17A6C2836D37100F5080D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4C17A6B2836D37100F5080D /* SceneDelegate.swift */; };
 		C4C17A712836D37100F5080D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C4C17A6F2836D37100F5080D /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		C43655082837476F00DBA480 /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
+		C436550B28374D3A00DBA480 /* flecha-regresar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "flecha-regresar.png"; sourceTree = "<group>"; };
 		C4C17A662836D37100F5080D /* EvaPerma2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EvaPerma2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4C17A692836D37100F5080D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C4C17A6B2836D37100F5080D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -44,6 +46,7 @@
 		C43655072837475400DBA480 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				C436550B28374D3A00DBA480 /* flecha-regresar.png */,
 				C43655082837476F00DBA480 /* like.png */,
 			);
 			path = Images;
@@ -159,6 +162,7 @@
 				C4C17A732836D37300F5080D /* Assets.xcassets in Resources */,
 				C4C17A712836D37100F5080D /* Main.storyboard in Resources */,
 				C4C17A872836E1BC00F5080D /* Jost-VariableFont_wght.ttf in Resources */,
+				C436550C28374D3A00DBA480 /* flecha-regresar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
